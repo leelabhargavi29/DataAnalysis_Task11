@@ -24,8 +24,10 @@ Output:
 - PCA Scatter Plot
 
 Interview Questions:
+
 1.What is Dimensionality Reduction?
 reducing the features into small.
+
 2.Why use PCA?
 Reduce complexity
 Faster model training
